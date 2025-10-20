@@ -1,0 +1,36 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de test y cobertura
+htmlcov/
+.coverage
+.tox/
+
+# Archivos de sistema
+.env
+.env.*
+
+# Archivos de macOS
+Icon?
+
+# Otros
+*.egg-info/
+dist/
+build/
